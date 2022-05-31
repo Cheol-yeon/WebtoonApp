@@ -11,7 +11,7 @@
 
     <androidx.constraintlayout.utils.widget.ImageFilterView
         android:id="@+id/iv_weeklyThumb1"
-        android:layout_width="120.53dp"
+        android:layout_width="126.53dp"
         android:layout_height="165.14dp"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent"
